@@ -9,6 +9,7 @@ fun main(){
     println("3: разделить")
     println("4: разность")
     println("че сделать")
+    println("умри пж")
     var da = readLine()!!.toInt()
     when (da){
         1 -> {
